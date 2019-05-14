@@ -1,0 +1,19 @@
+{
+  "name": "bosch-challenge-api",
+  "version": "1.0.0",
+  "description": "Bosch Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helton Simionato",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-validator": "^5.3.1",
+    "geojson": "^0.5.0",
+    "mongoose": "^5.0",
+    "mongoose-extend-schema": "^1.0.0"
+  }
+}
